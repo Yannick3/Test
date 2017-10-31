@@ -4,8 +4,14 @@
 ```
 cd Downloads
 ```
-2. run the help.sh file
+1. run the help.sh file
 
 ```
 ./help.sh
+```
+
+1. and done
+
+```
+Yes
 ```
